@@ -1,0 +1,89 @@
+body {
+    margin          : 0;
+    padding         : 0;
+   /* background-color: #2b0022;*/
+   background-color: #2b0022;
+
+}
+
+header {
+    background-color: #360c2d98;
+    text-align      : center;
+    }
+
+   
+/*.arriba{
+    
+    background-color: #360c2d98;
+
+}*/
+
+h1 {
+    background-color: #2b0022;
+    word-spacing    : 20px;
+    color           : #ebd2f5;
+    text-transform  : uppercase;
+    letter-spacing  : 3px;
+    font-family     : 'Montserrat', sans-serif;
+    text-align      : center;
+    font-size       : 50px;
+}
+
+main {
+   background-color: #ebd2f5;
+    /*font-family   : Arial, Helvetica, sans-serif*/
+    /*width         : 600px;
+    height          : 500px;*/
+    position=absolute;
+    top          : 50%;
+    left         : 50%;
+    /*margin-top : -200px; /* 50% del alto*/
+    /*margin-left: -300px; /* 50% del ancho */
+    padding      : 20px 200px 20px 200px;
+}
+
+h2 {
+    background-color: #2b002298;
+    word-spacing    : 10px;
+    color           : #EFF9F2;
+    letter-spacing  : 7px;
+    text-transform  : uppercase;
+    font-family     : 'Open Sans', sans-serif;
+}
+
+ul {
+    font-size       : 15px;
+    /*text-transform: uppercase;*/
+    font-family     : 'Open Sans', sans-serif;
+}
+
+span {
+    font-weight: bold;
+    font-style : italic;
+    font-family: 'Open Sans', sans-serif;
+}
+
+dl {
+    font-size  : 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.pieDePagina {
+    margin-top: 20px;
+
+}
+
+footer {
+    height     : 70px;
+    background-color: #2b0022;
+    color      : white;
+    font-size  : 30px;
+    text-align : center;
+    font-family: 'Belgrano', 'Open Sans', serif;
+}
+
+.logos {
+    width         : 35px;
+    height        : 35px;
+    vertical-align: middle;
+}
